@@ -1,1 +1,1 @@
-# django-chatting-app
+# django-FAQ
